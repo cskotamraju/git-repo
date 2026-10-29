@@ -14,5 +14,6 @@ const index = () => {
     <div>index</div>
   )
 }
-console.log("Hi3")
+console.log("Hi 3");
+console.log (Hi4);
 export default index
